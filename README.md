@@ -1,9 +1,9 @@
 # Formation-ESLint
 
 # DESCRIPTION
-- Tuto graphikart
+- doc officielle
 
-https://grafikart.fr/tutoriels/eslint-913
+https://eslint.org/docs/latest/user-guide/getting-started
 
 Thomas CAILLAU
 24/06/2022
