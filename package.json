@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-loader": "^4.0.2"
+  },
+  "dependencies": {
+    "eslint-config-standard-js": "^1.5.1"
+  }
+}
